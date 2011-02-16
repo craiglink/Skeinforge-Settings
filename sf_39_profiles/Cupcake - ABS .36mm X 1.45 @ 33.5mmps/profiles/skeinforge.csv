@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	664+2
+Open File for Skeinforge	C:/MakerBot/models/cylinder.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
