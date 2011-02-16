@@ -15,7 +15,7 @@ dimension	False
 drill	False
 export	False
 feed	False
-fill	False
+fill	True
 fillet	False
 flow	False
 home	False
@@ -33,7 +33,7 @@ outset	False
 preface	False
 raft	False
 scale	False
-speed	True
+speed	False
 splodge	False
 stretch	False
 temperature	False
